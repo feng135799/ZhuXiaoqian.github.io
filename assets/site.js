@@ -82,6 +82,12 @@
       // The homepage follows the curated order supplied by the research group.
       // Each record is resolved by exact paper-title text, not a guessed publication.
       const highlights = [
+
+{
+  person: '魏春山同学',
+  journal: 'Nature Climate Change',
+  title: 'Warming-driven lower-tropospheric stratification intensifies ducting over global oceans'
+},
         {person:'廖思远同学',journal:'JASA',title:'A lightweight conditional mean-field network for predicting azimuth-range acoustic transmission loss in dynamic ocean environments'},
         {person:'姜正豪同学',journal:'IEEE Transactions on Geoscience and Remote Sensing',title:'SRNet: Semantic Anchoring and Fine-Grained Refinement Network for Semantic Change Detection in Remote Sensing Images'},
         {person:'丰晟老师',journal:'IEEE Journal of Oceanic Engineering',title:'Graph Embedding With Mel-Spectrograms for Underwater Acoustic Target Recognition'},

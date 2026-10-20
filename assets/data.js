@@ -94,6 +94,26 @@ window.GROUP_DATA = {
   "fundingScope": "项目总经费"
 }],
   "publications": [
+
+{
+  "year": "2026",
+  "title": "Warming-driven lower-tropospheric stratification intensifies ducting over global oceans",
+  "authors": "Xiaofeng Zhao · Chunshan Wei · Xiaoqian Zhu · Dongxiao Wang · Meng Lyu · Pinglv Yang · Yudi Liu",
+  "authorsDisplay": "Zhao X F, Wei C S, Zhu X Q, et al.",
+  "venue": "Nature Climate Change",
+  "domain": "大气与空间环境预测",
+  "type": "期刊论文",
+  "status": "verified",
+  "links": [
+    {
+      "label": "DOI",
+      "url": "https://doi.org/10.1038/s41558-026-02774-y"
+    }
+  ],
+  "source": "Nature Climate Change",
+  "notes": ""
+},
+
     {
       "year": "2026",
       "title": "A lightweight conditional mean-field network for predicting azimuth-range acoustic transmission loss in dynamic ocean environments",
